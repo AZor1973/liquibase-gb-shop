@@ -27,4 +27,5 @@
     <include file="lesson10/product.add.column.descriptions.xml" relativeToChangelogFile="true"/>
 
     <include file="lesson11/product_order.drop.unique.constraint.order_id.xml" relativeToChangelogFile="true"/>
+    <include file="lesson11/account_user.change.default.status.xml" relativeToChangelogFile="true"/>
 </databaseChangeLog>
